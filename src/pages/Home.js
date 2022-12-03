@@ -1,7 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import WomanImg from "../img/home/woman.png"
-
+import { motion } from "framer-motion";
+import { transition1 } from "../transitions";
 
 const Home = () => {
   return (
