@@ -11,7 +11,7 @@ const Contact = () => {
 
         {/* text & form */}
         <div className="lg:flex-1 lg:pt-32 px-4">
-          <h1 className="h1">Contact me</h1>
+          <h1 className="h1">Contact</h1>
           <p className="mb-12">I would love to get suggestion from you.</p>
           {/* form */}
           <form className="flex flex-col gap-y-4">
